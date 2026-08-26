@@ -1,0 +1,24 @@
+body {
+    background-color: rgb(214, 109, 109);
+}
+.welcome {
+    text-align: center;
+    color: rgb(221, 236, 132);
+}
+.about-me {
+    text-align: center;
+}
+.admin-login {
+    text-align: center;
+}
+.youtube-text {
+    text-align: center;
+}
+.admin-button {
+    display: block;
+    margin: 0 auto;
+}
+.youtube-button {
+    display: block;
+    margin: 0 auto;
+}
